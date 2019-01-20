@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Order and Chaos</string>
+    <string name="play_button">Play Order and Chaos</string>
+    <string name="rules_button">More about Order and Chaos</string>
+    <string name="about_button">About the app</string>
+    <string name="choice_text">or</string>
+    <string name="order_turn">order</string>
+    <string name="chaos_turn">chaos</string>
+</resources>
